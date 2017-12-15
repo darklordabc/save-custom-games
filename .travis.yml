@@ -1,0 +1,10 @@
+script: gulp
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: dist
+  email: save-custom-games@yandex.com
+  name: Save Custom Games
+  on:
+    branch: master
