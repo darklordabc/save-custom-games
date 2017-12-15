@@ -8,7 +8,7 @@ deploy:
   local_dir: dist
   email: save-custom-games@yandex.com
   name: Save Custom Games
-  repo: save-custom-games.github.io
+  repo: save-custom-games/save-custom-games.github.io
   target_branch: master
   on:
     branch: master
