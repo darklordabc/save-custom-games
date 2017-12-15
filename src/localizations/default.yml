@@ -1,0 +1,39 @@
+locale_default: English
+locale_zh: 中文 (Chinese)
+
+title: Save Custom Games
+
+title_line1: Save
+title_line2: Custom Games
+
+introduction: Introduction
+introduction_text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi veniam odio ut recusandae vitae accusamus incidunt inventore cumque corporis nihil qui amet voluptatum atque dolor dolorum, necessitatibus dolorem delectus id.
+
+what_you_can_do: What you can do
+what_you_can_do_text: Tell Valve that custom games are important for Dota 2 community!
+
+contacts:
+  - text: Write to Dota 2 Custom Games team
+    href: mailto:dotacustomgames@valvesoftware.com
+  - text: Write to Dota 2 Team
+    href: http://www.valvesoftware.com/email.php?recipient=Dota%202%20Team
+  - text: Make a thread on Dota 2 Dev Forum
+    href: https://dev.dota2.com/forumdisplay.php?f=484
+
+reasons:
+  - title: Frequent Player Disconnects
+    video_webm: http://cdn.dota2.com/apps/dota2/videos/700/pregame_picker.webm
+    video_mp4: http://cdn.dota2.com/apps/dota2/videos/700/pregame_picker.mp4
+    text: For years, custom games have been plagued with predictable and widespread crashing in the begining phase of games. This problem affects nearly all games, including Valve custom games, Overthrow and 10v10. It is not clear what is causing it and no custom game developer has been able to fix it. This problem is usually fixed by reconnecting after a crash but for some custom games, this bug is more severe as reconnecting will not reload hero selection UI and they will be left in an unplayable state. The problem is likely related to loading too many assets at once but it will require valve to investigate and fix, as it is out of the domain of custom game developers.
+  - title: Systematize Bug Fixes
+    video_webm: http://cdn.dota2.com/apps/dota2/videos/700/pregame_picker.webm
+    video_mp4: http://cdn.dota2.com/apps/dota2/videos/700/pregame_picker.mp4
+    text: As of now, the only reliable method to get valve to address a bug or imbalance is to get a front page post on <a href="https://www.reddit.com/r/DotA2/" target="_blank">/r/DotA2/</a>. As custom game developers and their concerns are a small niche of the dota 2 community, its rare for us to get to the front page, <a href="TODO"  target="_blank">and the few times we have</a>, not much has been gained. Valve needs a more methodological and consistent method of addressing bugs. Assigning one team member to be a liason with the modding community would go a long way in prioritzing and slowly improving the modding scene. 24/7 communication is not necessary, but having one employee who can be reached in a weekly or bi-weekly fashion would be a vast improvement on the now haphazard and infrequent emails we receive.
+  - title: Communication
+    video_webm: http://cdn.dota2.com/apps/dota2/videos/700/pregame_picker.webm
+    video_mp4: http://cdn.dota2.com/apps/dota2/videos/700/pregame_picker.mp4
+    text: Above all, the one thing modders desperately need, is communication. Its understanable that valve is not always interested in Custom games and they most likely have many different projects and creative endeavours that take up their time, but it does not seem unreasonable for them to devote 1 or 2 employees to being able to touch base with the modding community maybe once or twice a week. The modding has even going so far to setup and maintain an extensive <a href="https://github.com/ModDota/BugTracker/issues" target="_blank">bugtracker</a>, in hope that valve will use this resource (and pool of talent behind it), to finally address some very old bugs, but as of now, a valve employee has only left one comment and was never seen again. We know valve is capable of this type of sustained cooperation as they have done a fantastic job building the BOT API with the help of the community.
+  - title: Breaking Custom Games
+    video_webm: http://cdn.dota2.com/apps/dota2/videos/700/pregame_picker.webm
+    video_mp4: http://cdn.dota2.com/apps/dota2/videos/700/pregame_picker.mp4
+    text: In an ideal world, modders would look forward to updates by valve, prehaps thinking they would add new functionality or bug fixes to the API or badly needed feature requests, but instead modders brace themselves for hell. Many times valves have made updates that completely break custom games, from renamining functions for no apprant reasons, to removing or changing how stuff works or just simply breaking a vital necessity and sending the community into disarray. At all times, there is no warning of these changes, and attempts to communicate with valve results in silence.
